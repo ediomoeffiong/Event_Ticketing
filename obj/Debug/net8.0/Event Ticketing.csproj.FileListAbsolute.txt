@@ -1,0 +1,30 @@
+C:\Users\Covenant\Desktop\C#\Event Ticketing\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Covenant\Desktop\C#\Event Ticketing\bin\Debug\net8.0\appsettings.json
+C:\Users\Covenant\Desktop\C#\Event Ticketing\bin\Debug\net8.0\Event Ticketing.staticwebassets.runtime.json
+C:\Users\Covenant\Desktop\C#\Event Ticketing\bin\Debug\net8.0\Event Ticketing.exe
+C:\Users\Covenant\Desktop\C#\Event Ticketing\bin\Debug\net8.0\Event Ticketing.deps.json
+C:\Users\Covenant\Desktop\C#\Event Ticketing\bin\Debug\net8.0\Event Ticketing.runtimeconfig.json
+C:\Users\Covenant\Desktop\C#\Event Ticketing\bin\Debug\net8.0\Event Ticketing.dll
+C:\Users\Covenant\Desktop\C#\Event Ticketing\bin\Debug\net8.0\Event Ticketing.pdb
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.AssemblyInfoInputs.cache
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.AssemblyInfo.cs
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.csproj.CoreCompileInputs.cache
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.RazorAssemblyInfo.cache
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.RazorAssemblyInfo.cs
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\staticwebassets\msbuild.Event Ticketing.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\staticwebassets\msbuild.build.Event Ticketing.props
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Event Ticketing.props
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Event Ticketing.props
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\scopedcss\bundle\Event Ticketing.styles.css
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\scopedcss\projectbundle\Event Ticketing.bundle.scp.css
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.dll
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\refint\Event Ticketing.dll
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.pdb
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\Event Ticketing.genruntimeconfig.cache
+C:\Users\Covenant\Desktop\C#\Event Ticketing\obj\Debug\net8.0\ref\Event Ticketing.dll
